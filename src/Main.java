@@ -123,8 +123,8 @@ public class Main {
     public static void task7 () {
         System.out.println("Задача 7");
         int one = 5;
-        int two = 4;
-        int three = 4;
+        int two = 5;
+        int three = 7;
         if (one > two && one > three) {
             System.out.println(" цифра первая больше всех");
         } else if (two > one && two > three) {
